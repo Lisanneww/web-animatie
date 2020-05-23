@@ -1,7 +1,7 @@
 #background {
     width: 100%;
     height: 100%;
-    background-color: green;
+    background-color: lightblue;
 }
 
 body, html {
@@ -142,8 +142,8 @@ svg {
 }
 }
 
-#bird1, #bird2, #bird3, #bird4, #bird5, #bird6, #bird7, #bird8 {
-    position: absolute;
+#cls-2:hover {
+    background: black;
 }
 
 
