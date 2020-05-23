@@ -97,35 +97,54 @@ svg {
     transform: scaleX(0.8) scaleY(0.8); 
   }
 
+
 .cls-1{fill:#4f3a2e;}
 .cls-2{fill:#f8f4ef;}
+.cls-2:hover {
+  fill: gray;
+}
+
 .cls-3{fill:#f8c833;}
 
 .cls-4{fill:#d0ac79;}
 .cls-5{fill:#f9f4ed;}
+.cls-5:hover {
+  fill: gray;}
 .cls-6{fill:#4e3a2e;}
 
 .cls-7{fill:#d0ac77;}
 .cls-8{fill:#faf1ef;}
+.cls-8:hover {
+  fill: gray;}
 .cls-9{fill:#4f3c2e;}
 
 .cls-10{fill:#563a2e;}
 .cls-11{fill:#d0ae79;}
 .cls-12{fill:#f4f5ef;}
+.cls-12:hover {
+  fill: gray;}
 
 .cls-13{fill:rgb(85, 63, 51);}
 .cls-14{fill:#faf9ef;}
+.cls-14:hover {
+  fill: gray;}
 .cls-15{fill:#d0aa79;}
 
 .cls-16{fill:#fcf6f0;}
+.cls-16:hover {
+  fill: gray;}
 .cls-17{fill:#4c362a;}
 
 .cls-18{fill:#4f3a29;}
 .cls-19{fill:#d2ac79;}
 .cls-20{fill:#f8f4f9;}
+.cls-20:hover {
+  fill: gray;}
 
 .cls-21{fill:#4f3a33;}
 .cls-22{fill:#f5f4f1;}
+.cls-22:hover {
+  fill: gray;}
 .cls-23{fill:#ceac79;}
 
 #bird1, #bird2, #bird3, #bird4, #bird5, #bird6, #bird7, #bird8 {
@@ -140,10 +159,6 @@ svg {
   to {
       transform: rotateX(25deg);
 }
-}
-
-#bird1, #bird2, #bird3, #bird4, #bird5, #bird6, #bird7, #bird8 {
-    position: absolute;
 }
 
 

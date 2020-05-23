@@ -8,7 +8,7 @@
 //     bird5.classList.add('click');
 // }
 
-$('.bird5').click(function() {
+$('#bird5').click(function() {
     $(this).animate({
         left: '-50%'
     }, 500, function() {
@@ -18,3 +18,5 @@ $('.bird5').click(function() {
     }, 500);
     });
 });
+
+
