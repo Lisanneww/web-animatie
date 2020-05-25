@@ -20,7 +20,7 @@ Dit vak was een enorme uitdaging voor mij aangezien ik nog niet met code gewerkt
 2.	Hover: als je over de vogels heen hovert veranderen de geometrische vlakken van kleur.
 3.	Background: ik heb de achtergrond een andere kleur gegeven om de lucht te representeren. Bovendien ik heb wolken toegevoegd, die de andere kant op bewegen, waardoor het lijkt alsof de vogels in beweging zijn. 
 4.	Responsive: de vogels worden kleiner naar mate het scherm kleiner wordt. Als het scherm op mobiel formaat is, dan verandert de achtergrond kleur. De lucht gaat van lichtblauw naar donkerblauw om dag en nacht te representeren.
-5.	Fly: Als je op de button klikt, dan gaan de vogels vliegen in plaats van zweven. 
+5.	Fly: Als je op een geometrisch vakje klikt, dan gaan de vogels vliegen in plaats van zweven. Ze vliegen uit en in het scherm.
 
 ## Bronnen
 
