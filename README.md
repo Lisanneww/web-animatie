@@ -23,5 +23,7 @@ Dit vak was een enorme uitdaging voor mij aangezien ik nog niet met code gewerkt
 ## Bronnen
 
 https://jsfiddle.net/Ronindebeek/revh682m/7/
+
 https://codepen.io/lionelB/pen/gckDu
+
 https://www.youtube.com/watch?v=gWai7fYp9PY
