@@ -4,7 +4,7 @@
 
 ## Orginele kunstwerk
 
-![]()
+![](flight.gif)
 
 Ik heb dit kunstwerk gekozen, omdat ik de geometrische vogels erg interessant vond en direct inspiratie kreeg met wat ik kon doen aan animatie. Het kunstwerk is een poster voor in de Daily Herald newspaper. Deze stijl van illustratie was erg vernieuwend voor begin 1900. De titel is flight met de tekst soaring. Ik wilde inspelen op deze twee termen.
 
