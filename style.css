@@ -170,9 +170,14 @@ svg {
 .cls-23{fill:#ceac79;}
 .cls-23:hover{fill:#5c4628;}
 
-#bird1, #bird2, #bird3, #bird4, #bird5, #bird6, #bird7, #bird8 {
+/* #bird1, #bird2, #bird3, #bird4, #bird5, #bird6, #bird7, #bird8 {
     animation: bounce 2s ease-in-out infinite alternate;
-     transform-origin: bottom;
+    transform-origin: bottom;
+} */
+
+.allBirds {
+  animation: bounce 2s ease-in-out infinite alternate;
+  transform-origin: bottom;
 }
 
 @keyframes bounce {
