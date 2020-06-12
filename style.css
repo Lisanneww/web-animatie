@@ -180,15 +180,6 @@ svg {
   transform-origin: bottom;
 }
 
-@keyframes rotation {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(359deg);
-  }
-}
-
 @keyframes bounce {
   from {
       transform: rotateX(0deg);
