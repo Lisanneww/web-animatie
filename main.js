@@ -9,13 +9,6 @@ function moveAllBirds() {
     });
 }
 
-function setAttributes(el, attrs) {
-    for (var key in attrs) {
-        el.setAttribute(key, attrs[key]);
-    }
-}
-
-// Ik haal alle elementen op die in het <g> element zitten en ben op zoek naar alle <path> elementen zodat daaraan een transform/transition kan toekennen
 function moveOneBird(bird) {
 
     switch (bird) {
@@ -50,7 +43,7 @@ function moveOneBird(bird) {
 
 $(document).keydown(function (e) {
     switch (e.which) {
-        case 32:    //Hele vogel vliegt weg wanneer op spacebar wordt geklikt
+        case 32:    //Hele vogel vliegt weg wanneer er op de spatiebalk wordt geklikt
             moveAllBirds();
             break;
     }
